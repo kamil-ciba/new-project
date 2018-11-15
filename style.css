@@ -1,0 +1,11 @@
+body {
+    background-color: #ddd;
+}
+
+p {
+    margin-left: 10px;
+}
+
+p:hover {
+    text-decoration: underline;
+}
